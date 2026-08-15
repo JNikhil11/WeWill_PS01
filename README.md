@@ -2,6 +2,8 @@
 
 > **SEMICON India Hackathon 2026 | Team: WeWill | Problem Statement: KLA PS01**
 
+Model weights can be downloaded here: https://drive.google.com/file/d/1a9TXutPVxBBCDnxnBSNrGwzVUM0VvzQD/view?usp=sharing
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
