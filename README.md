@@ -170,6 +170,6 @@ Upload `WeWill_PS01_Prototype_KLA_Data.ipynb` to [Google Colab](https://colab.go
 | Name | Role |
 |---|---|
 | Nikhil J | ML Engineer |
-| [Team Member 2] | [Role] |
+| Ashok Kumar Saragada | ML Engineer |
 
-**Institution:** [Your College Name]
+**Institution:** VITAP UNIVERSITY
